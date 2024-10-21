@@ -1,6 +1,6 @@
 # PlantPatrol2024CongressionalAppChallenge
-Kevin Wang \n
-Katherine Wang \n
-State of Indiana District 05 \n
-App: Plant Patrol \n
+Kevin Wang <br />
+Katherine Wang <br />
+State of Indiana District 05 <br />
+App: Plant Patrol <br />
 Detailed info regarding our app can be found here 
